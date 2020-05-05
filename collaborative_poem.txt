@@ -40,3 +40,6 @@ It makes analyzing data a breeze,
 With so many packages, life is an ease.
 What would we do in a life without R,
 especially since there is no open bar. 
+
+With all that is going on it has lately been quite a bummer,
+But this will be quite a fun and exciting way to start the summer!
