@@ -46,6 +46,3 @@ But this will be quite a fun and exciting way to start the summer!
 
 I am still recovering from brain drain this past winter.
 After all, I spent a lot of time learning Python's Tkinter.
-
-They say you should not rhyme "rhyme" with "rhyme",
-But this is my paradigm and I rhyme "rhyme" with "rhyme".
